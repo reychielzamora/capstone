@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* @plugin "daisyui"; */
+@plugin "flowbite/plugin";
+
+[x-cloak] { 
+    display: none !important; 
+}

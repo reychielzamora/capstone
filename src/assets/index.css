@@ -1,0 +1,8 @@
+#--bg{
+    background-image: 
+    linear-gradient(rgba(221, 221, 221, 0.5), rgba(221, 221, 221, 0.328)),
+    url('homebg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+}
